@@ -92,6 +92,16 @@ footer {
 
     .display {
         flex-basis: 100%;
+        display: flex;
+        flex-direction: column; /* Organiza imagem e texto em coluna */
+        align-items: center;
+        text-align: center;
+    }
+
+    .display img {
+        width: 100%;       /* Faz a imagem ocupar toda a largura da div */
+        height: auto;      /* Mantém a proporção */
+        max-width: 100%;   /* Garante que não ultrapasse o container */
     }
 
     nav {
