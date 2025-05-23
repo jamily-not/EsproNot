@@ -111,17 +111,15 @@ footer {
 
     nav a {
         padding: 10px;
-        text-decoration: none;
-        color: #fff;
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
-    button {
-        width: 100%;
-        max-width: 300px; /* ou outro valor desejado */
-        margin: 0 auto; /* centraliza */
-        display: block; /* para permitir o margin auto */
-    }
+    button{
+    border: 2px solid;
+    height: 35px;
+    background-color: #061d59;
+    border-radius: 10px;
+    width: 20%;
+}
 }
 
 a{
