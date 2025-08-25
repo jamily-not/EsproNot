@@ -118,8 +118,7 @@ footer {
     height: 35px;
     background-color: #061d59;
     border-radius: 10px;
-    width: 20%;
-}
+    }
 }
 
 a{
@@ -134,5 +133,5 @@ button{
     height: 35px;
     background-color: #061d59;
     border-radius: 10px;
-    width: 10%;
 }
+
