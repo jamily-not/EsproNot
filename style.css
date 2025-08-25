@@ -85,7 +85,7 @@ a{
 
 }
 
-button{
+.button{
     border: 2px solid;
     height: 35px;
     background-color: #061d59;
@@ -128,3 +128,4 @@ button{
     }
     
 }
+
